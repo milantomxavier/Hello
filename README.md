@@ -1,2 +1,7 @@
-# Hello
-trying to make a website
+<html>
+  <head>
+    <title>Hi</title>
+  </head>
+  <body>
+    supppp</body>
+  </html>
